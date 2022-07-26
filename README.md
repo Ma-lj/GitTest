@@ -3,4 +3,6 @@ Do some git test
 
 practise git add
 
-add ++
+add ++--
+
+git diff
