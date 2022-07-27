@@ -6,3 +6,5 @@ practise git add
 add ++--
 
 git diff
+
+git reset+
