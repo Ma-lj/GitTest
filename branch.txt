@@ -1,3 +1,7 @@
 show me the code
 
+<<<<<<< HEAD
 i--
+=======
+i++
+>>>>>>> gitrm_1
